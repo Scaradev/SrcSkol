@@ -1,16 +1,11 @@
-### Hi there 👋
+# SrcSkol
+- Main Account - [Scaratek](https://github.com/scaratek)
 
-<!--
-**SrcSkol/SrcSkol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- What is SrcSkol?
+  - SrcSkol Is a Hub Of Decompiled Chrome Extensions Like Securly That Are Used To Monitor You At School.
+ 
+- Why are you doing this?
+  - I want this inforation to be a useful resource for people trying to find exploits for such extensions.
+  
+  - List Of People That Have Helped Me (So Far)
+    - Me
