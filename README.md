@@ -14,5 +14,8 @@
  
  
  - List Of People That Have Helped Me (So Far)
+   - Rafflesia#8396
+   - Quite A Fancy Emerald#0001
    - Catakang#0987
+   - colacraft#0744
    - Me
